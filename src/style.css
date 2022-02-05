@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.logo-font{
+    font-family: 'Pacifico', cursive;
+}
+
+.imagem-carrossel1{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 500px;
+}
+
+.imagem-carrossel2{
+    object-fit: cover;
+    height: 500px;
+}
+
+.new-font-style{
+    font-family: 'Pacifico', cursive;
+}
+
+.main-color{
+    color: darkred !important;
+}
+
+.main-bg-color{
+    background-color: darkred;
+    color: white;
+}
+
+.border-color{
+    border-color: darkred;
+}
+
+.card-img-position{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-width{
+    max-width: 18rem;
+}
+
+.btn:hover{
+    background-color: rgba(139, 0, 0, 0.726);
+    color: white;
+}
+
+.font-white{
+    color: white!important;
+}
+
+.img-quemsomos{
+    object-fit: cover;
+}
